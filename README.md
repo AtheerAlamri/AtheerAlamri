@@ -13,6 +13,7 @@
 ## 🌎 Connect with me:
 [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/atheer-alamri-ba842a21b)
 [![Connect on Gmail](https://img.shields.io/badge/--email?label=Gmail&logo=gmail&style=social)](mailto:AtheerAlamri01@gmail.com "Email me")
+[![Connect on HackerRank](https://img.shields.io/badge/-HackerRank-brightgreen?logo=HackerRank&logoColor=Green&labelColor=black)](https://www.hackerrank.com/atheer450)
 
 [![Linkedin Badge](https://img.shields.io/badge/-AtheerAlamri-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/atheer-alamri-ba842a21b/)](https://www.linkedin.com/in/atheer-alamri-ba842a21b/)
 [![Gmail Badge](https://img.shields.io/badge/AtheerAlamri01@gmail.com-email?style=flat&color=C5211E&logoColor=white&logo=gmail)](mailto:AtheerAlamri01@gmail.com "Email me")
