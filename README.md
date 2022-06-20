@@ -1,6 +1,5 @@
 <h3 align="center">👋 Hello! I'm Atheer.</h3>
 
----
 ## 🌐 Portfolio
 ...
 
