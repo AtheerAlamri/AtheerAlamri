@@ -16,6 +16,9 @@ Passionate about Data Science, Artificial Intelligence, Machine Learning, and We
 [![Connect on HackerRank](https://img.shields.io/badge/-hackerrank?label=HackerRank&logo=HackerRank&style=social)](https://www.hackerrank.com/atheer450)
 [![Connect on TryHackMe](https://img.shields.io/badge/-tryhackme?label=TryHackMe&logo=tryhackme&style=social)](https://tryhackme.com/p/Atheer01)
 
+## 📍 Languages and Tools:
+
+
 ## 📊 My Github Stats:
 ![Atheer Alamri's GitHub stats](https://github-readme-stats.vercel.app/api?username=AtheerAlamri&theme=react&&hide=contribs,prs&show_icons=true&hide_border=true&bg_color=0D1117)<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=AtheerAlamri&theme=react&layout=compact&hide_border=true&bg_color=0D1117)
