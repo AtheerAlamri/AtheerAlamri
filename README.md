@@ -17,24 +17,34 @@ Passionate about Data Science, Artificial Intelligence, Machine Learning, and We
 [![Connect on TryHackMe](https://img.shields.io/badge/-tryhackme?label=TryHackMe&logo=tryhackme&style=social)](https://tryhackme.com/p/Atheer01)
 
 ## 📍 Languages and Tools:
-<code><img height="25" src="https://github.com/github/explore/blob/main/topics/javascript/javascript.png"></code>
-<code><img height="25" src="https://github.com/github/explore/blob/main/topics/html/html.png"></code>
-<code><img height="25" src="https://github.com/github/explore/blob/main/topics/python/python.png"></code>
-<code><img height="25" src="https://github.com/github/explore/blob/main/topics/mysql/mysql.png"></code>
-<code><img height="25" src="https://github.com/github/explore/blob/main/topics/git/git.png"></code>
-<code><img height="25" src="https://github.com/github/explore/blob/main/topics/java/java.png"></code>
-<code><img height="25" src="https://github.com/github/explore/blob/main/topics/css/css.png"></code>
-<code><img height="25" src="https://github.com/github/explore/blob/main/topics/php/php.png"></code>
-<code><img height="25" src="https://github.com/github/explore/blob/main/topics/laravel/laravel.png"></code>
-<code><img height="25" src="https://github.com/github/explore/blob/main/topics/json/json.png"></code>
-<code><img height="25" src="https://github.com/github/explore/blob/main/topics/visual-studio-code/visual-studio-code.png"></code>
-<code><img height="25" src="https://github.com/github/explore/blob/main/topics/pycharm/pycharm.png"></code>
-<code><img height="25" src="https://github.com/github/explore/blob/main/topics/github/github.png"></code>
-<code><img height="25" src="https://github.com/github/explore/blob/main/topics/sublime-text/sublime-text.png"></code>
-<code><img height="25" src="https://github.com/github/explore/blob/main/topics/latex/latex.png"></code>
-<code><img height="25" src="https://github.com/github/explore/blob/main/topics/flutter/flutter.png"></code>
-<code><img height="25" src="https://github.com/github/explore/blob/main/topics/jupyter-notebook/jupyter-notebook.png"></code>
-<code><img height="25" src="https://github.com/github/explore/blob/main/topics/dart/dart.png"></code>
+
+Programming Language <br>
+[<code><img height="25" src="https://github.com/github/explore/blob/main/topics/java/java.png"></code>](https://www.java.com/en/)
+[<code><img height="25" src="https://github.com/github/explore/blob/main/topics/python/python.png"></code>](https://www.python.org/)
+[<code><img height="25" src="https://github.com/github/explore/blob/main/topics/dart/dart.png"></code>](https://dart.dev/)
+[<code><img height="25" src="https://github.com/github/explore/blob/main/topics/javascript/javascript.png"></code>](https://www.javascript.com/)
+
+Web Technologies <br>
+[<code><img height="25" src="https://github.com/github/explore/blob/main/topics/html/html.png"></code>](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[<code><img height="25" src="https://github.com/github/explore/blob/main/topics/css/css.png"></code>](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[<code><img height="25" src="https://github.com/github/explore/blob/main/topics/php/php.png"></code>](https://www.php.net/)
+
+Database <br>
+[<code><img height="25" src="https://github.com/github/explore/blob/main/topics/mysql/mysql.png"></code>](https://www.mysql.com/)
+
+FrameWork <br>
+[<code><img height="25" src="https://github.com/github/explore/blob/main/topics/laravel/laravel.png"></code>](https://laravel.com/)
+[<code><img height="25" src="https://github.com/github/explore/blob/main/topics/flask/flask.png"></code>](https://flask.palletsprojects.com/en/2.1.x/)
+[<code><img height="25" src="https://github.com/github/explore/blob/main/topics/flutter/flutter.png"></code>](https://flutter.dev/)
+
+Software & Tools <br>
+[<code><img height="25" src="https://github.com/github/explore/blob/main/topics/git/git.png"></code>](https://git-scm.com/)
+[<code><img height="25" src="https://github.com/github/explore/blob/main/topics/github/github.png"></code>](https://github.com/)
+[<code><img height="25" src="https://github.com/github/explore/blob/main/topics/visual-studio-code/visual-studio-code.png"></code>](https://code.visualstudio.com/)
+[<code><img height="25" src="https://github.com/github/explore/blob/main/topics/pycharm/pycharm.png"></code>](https://www.jetbrains.com/pycharm/)
+[<code><img height="25" src="https://github.com/github/explore/blob/main/topics/jupyter-notebook/jupyter-notebook.png"></code>](https://jupyter.org/)
+[<code><img height="25" src="https://github.com/github/explore/blob/main/topics/sublime-text/sublime-text.png"></code>](https://www.sublimetext.com/)
+[<code><img height="25" src="https://github.com/github/explore/blob/main/topics/latex/latex.png"></code>](https://www.latex-project.org/)
 
 
 
