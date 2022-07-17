@@ -7,7 +7,7 @@
 
 
 ## 🌐 Portfolio
-This is Atheer Alamri | Computer science graduate.<br>
+I am Atheer Alamri | Computer science graduate.<br>
 Passionate about Data Science, Artificial Intelligence, Machine Learning, and Web Development. In addition, very interested in Cybersecurity.
 
 ## 📫 Connect with me:
