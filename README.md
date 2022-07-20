@@ -49,5 +49,5 @@ Software & Tools <br>
 
 
 ## 📊 My Github Stats:
-![Atheer Alamri's GitHub stats](https://github-readme-stats.vercel.app/api?username=AtheerAlamri&theme=react&&hide=contribs,prs&show_icons=true&hide_border=true&bg_color=0D1117)<br>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AtheerAlamri&theme=react&hide_border=true)](https://git.io/streak-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=AtheerAlamri&theme=react&layout=compact&hide_border=true&bg_color=0D1117)
